@@ -1,0 +1,28 @@
+# Dépendances
+node_modules/
+
+# Variables d'environnement (NE JAMAIS COMMIT)
+.env
+
+# Sessions Baileys (données sensibles)
+sessions/
+
+# Fichiers temporaires
+temp/
+*.tmp
+
+# Logs
+logs/
+*.log
+
+# Base de données SQLite
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
