@@ -199,6 +199,13 @@ process.on('uncaughtException', err => {
 
 process.on('unhandledRejection', (reason) => {
   console.error('[NOVA] ❌ Promesse rejetée:', reason)
+  if (db.settings) {
+    db.settings.logError({ 
+      command: 'unhandledRejection', 
+      error: String(reason), 
+      time: Date.now() 
+    })
+  }
 })
 
 // ─── DÉMARRAGE ────────────────────────────────────────────────────────────────
