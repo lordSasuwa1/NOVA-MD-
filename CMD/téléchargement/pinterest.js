@@ -22,9 +22,13 @@ module.exports = {
         : { image: buf, caption: '📌 *Pinterest* — image téléchargée ✅' },
         { quoted: msg })
       db.settings.incrementStat('pinterest_downloads')
-    } catch (err) {
-      await ctx.react('❌')
-      await ctx.reply({ text: `❌ Téléchargement Pinterest échoué.\n${err.message?.slice(0,100) || ''}` })
-    } finally { if (f) cleanTemp(f) }
+    } } catch (err) {
+  console.error('[NOVA] Erreur Pinterest:', err)
+  db.settings?.logError({ command: 'pinterest', error: err.message, sender: from, from, time: Date.now() })
+  await ctx.react('❌')
+  await ctx.reply({ text: `❌ Téléchargement Pinterest échoué.` })
+} finally { 
+  if (f) cleanTemp(f) // Nettoyer le fichier même en cas d'erreur
+}
   }
 }
