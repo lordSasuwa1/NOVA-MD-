@@ -1,0 +1,104 @@
+{
+  "royal": {
+    "name": "Royal Gold",
+    "emoji": "👑",
+    "border": {
+      "top": "╔══════════════════════════╗",
+      "mid": "╠══════════════════════════╣",
+      "bot": "╚══════════════════════════╝",
+      "side": "║",
+      "corner": "◈"
+    },
+    "separators": {
+      "title": "══════════════════════════",
+      "section": "──────────────────────────",
+      "dot": "◆"
+    },
+    "icons": {
+      "bot": "👑",
+      "general": "✦",
+      "games": "🎰",
+      "group": "🏰",
+      "download": "💫",
+      "vip": "💎",
+      "nsfw": "🔞",
+      "owner": "⚜️",
+      "dev": "🔱",
+      "ping": "⚡",
+      "online": "🟡",
+      "cmd": "❯",
+      "bullet": "◆",
+      "star": "★",
+      "crown": "♕"
+    },
+    "menu": {}
+  },
+  "cyber": {
+    "name": "Cyber Neon",
+    "emoji": "💎",
+    "border": {
+      "top": "▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓",
+      "mid": "░░░░░░░░░░░░░░░░░░░░░░░░░░",
+      "bot": "▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓",
+      "side": "▌",
+      "corner": "◉"
+    },
+    "separators": {
+      "title": "══▶▶▶══════════════▶▶▶══",
+      "section": "──▷──────────────────▷──",
+      "dot": "▶"
+    },
+    "icons": {
+      "bot": "🤖",
+      "general": "⚙️",
+      "games": "🕹️",
+      "group": "📡",
+      "download": "📥",
+      "vip": "💎",
+      "nsfw": "🔞",
+      "owner": "🛡️",
+      "dev": "👾",
+      "ping": "⚡",
+      "online": "🟢",
+      "cmd": "▷",
+      "bullet": "▶",
+      "star": "✦",
+      "crown": "◉"
+    },
+    "menu": {}
+  },
+  "kawaii": {
+    "name": "Kawaii Anime",
+    "emoji": "🌸",
+    "border": {
+      "top": "✿°•∘ ∘•°✿°•∘ ∘•°✿°•∘ ∘•°",
+      "mid": "· · · · · · · · · · · · · ·",
+      "bot": "✿°•∘ ∘•°✿°•∘ ∘•°✿°•∘ ∘•°",
+      "side": "❀",
+      "corner": "✿"
+    },
+    "separators": {
+      "title": "˚₊‧꒰ა ──────────── ໒꒱ ‧₊˚",
+      "section": "✦ ·͜·͜· ────────── ·͜·͜· ✦",
+      "dot": "✿"
+    },
+    "icons": {
+      "bot": "🌸",
+      "general": "🎀",
+      "games": "🎮",
+      "group": "🫧",
+      "download": "🌊",
+      "vip": "⭐",
+      "nsfw": "🍑",
+      "owner": "🌙",
+      "dev": "🔮",
+      "ping": "💫",
+      "online": "🌸",
+      "cmd": "✿",
+      "bullet": "꒰",
+      "star": "✦",
+      "crown": "🌸"
+    },
+    "menu": {}
+  }
+}
