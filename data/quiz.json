@@ -1,0 +1,551 @@
+[
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "correct": "Paris",
+    "wrong": [
+      "Lyon",
+      "Marseille",
+      "Bordeaux"
+    ]
+  },
+  {
+    "question": "Combien font 7 × 8 ?",
+    "correct": "56",
+    "wrong": [
+      "48",
+      "54",
+      "64"
+    ]
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "correct": "Pacifique",
+    "wrong": [
+      "Atlantique",
+      "Indien",
+      "Arctique"
+    ]
+  },
+  {
+    "question": "Quelle planète est la plus proche du soleil ?",
+    "correct": "Mercure",
+    "wrong": [
+      "Vénus",
+      "Mars",
+      "Terre"
+    ]
+  },
+  {
+    "question": "Qui a peint la Joconde ?",
+    "correct": "Léonard de Vinci",
+    "wrong": [
+      "Michel-Ange",
+      "Raphaël",
+      "Botticelli"
+    ]
+  },
+  {
+    "question": "En quelle année a débuté la Première Guerre mondiale ?",
+    "correct": "1914",
+    "wrong": [
+      "1918",
+      "1939",
+      "1905"
+    ]
+  },
+  {
+    "question": "Quelle est la formule chimique de l'eau ?",
+    "correct": "H2O",
+    "wrong": [
+      "CO2",
+      "NaCl",
+      "O2"
+    ]
+  },
+  {
+    "question": "Quel est le plus long fleuve du monde ?",
+    "correct": "Nil",
+    "wrong": [
+      "Amazone",
+      "Mississippi",
+      "Yang-Tsé-Kiang"
+    ]
+  },
+  {
+    "question": "Combien de côtés a un hexagone ?",
+    "correct": "6",
+    "wrong": [
+      "5",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de l'Espagne ?",
+    "correct": "Madrid",
+    "wrong": [
+      "Barcelone",
+      "Séville",
+      "Valence"
+    ]
+  },
+  {
+    "question": "Quel animal est le plus rapide sur terre ?",
+    "correct": "Guépard",
+    "wrong": [
+      "Lion",
+      "Gazelle",
+      "Autruche"
+    ]
+  },
+  {
+    "question": "Quelle est la monnaie du Japon ?",
+    "correct": "Yen",
+    "wrong": [
+      "Yuan",
+      "Won",
+      "Baht"
+    ]
+  },
+  {
+    "question": "Combien de joueurs dans une équipe de football ?",
+    "correct": "11",
+    "wrong": [
+      "9",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "question": "Quelle est la couleur du ciel par temps clair ?",
+    "correct": "Bleu",
+    "wrong": [
+      "Vert",
+      "Gris",
+      "Blanc"
+    ]
+  },
+  {
+    "question": "Qui a écrit 'Les Misérables' ?",
+    "correct": "Victor Hugo",
+    "wrong": [
+      "Zola",
+      "Balzac",
+      "Flaubert"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale du Brésil ?",
+    "correct": "Brasilia",
+    "wrong": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ]
+  },
+  {
+    "question": "Quel est le symbole chimique de l'or ?",
+    "correct": "Au",
+    "wrong": [
+      "Ag",
+      "Fe",
+      "Cu"
+    ]
+  },
+  {
+    "question": "Combien de grammes dans un kilogramme ?",
+    "correct": "1000",
+    "wrong": [
+      "100",
+      "500",
+      "10000"
+    ]
+  },
+  {
+    "question": "Quel pays a inventé le papier ?",
+    "correct": "Chine",
+    "wrong": [
+      "Egypte",
+      "Inde",
+      "Grèce"
+    ]
+  },
+  {
+    "question": "Quelle est la planète la plus grande du système solaire ?",
+    "correct": "Jupiter",
+    "wrong": [
+      "Saturne",
+      "Neptune",
+      "Uranus"
+    ]
+  },
+  {
+    "question": "Quel instrument utilise Sherlock Holmes ?",
+    "correct": "Violon",
+    "wrong": [
+      "Piano",
+      "Flûte",
+      "Guitare"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de l'Italie ?",
+    "correct": "Rome",
+    "wrong": [
+      "Milan",
+      "Florence",
+      "Naples"
+    ]
+  },
+  {
+    "question": "En quelle année l'homme a-t-il marché sur la Lune pour la 1ère fois ?",
+    "correct": "1969",
+    "wrong": [
+      "1965",
+      "1972",
+      "1957"
+    ]
+  },
+  {
+    "question": "Quel est le plus grand pays du monde par superficie ?",
+    "correct": "Russie",
+    "wrong": [
+      "Canada",
+      "Chine",
+      "États-Unis"
+    ]
+  },
+  {
+    "question": "Combien de secondes dans une heure ?",
+    "correct": "3600",
+    "wrong": [
+      "600",
+      "1800",
+      "7200"
+    ]
+  },
+  {
+    "question": "Quelle est la langue la plus parlée au monde ?",
+    "correct": "Mandarin",
+    "wrong": [
+      "Anglais",
+      "Espagnol",
+      "Hindi"
+    ]
+  },
+  {
+    "question": "Quel est l'élément le plus léger du tableau périodique ?",
+    "correct": "Hydrogène",
+    "wrong": [
+      "Hélium",
+      "Lithium",
+      "Oxygène"
+    ]
+  },
+  {
+    "question": "Qui a découvert l'Amérique en 1492 ?",
+    "correct": "Christophe Colomb",
+    "wrong": [
+      "Magellan",
+      "Vasco de Gama",
+      "Amerigo Vespucci"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de l'Allemagne ?",
+    "correct": "Berlin",
+    "wrong": [
+      "Munich",
+      "Hambourg",
+      "Cologne"
+    ]
+  },
+  {
+    "question": "Combien de continents y a-t-il sur Terre ?",
+    "correct": "7",
+    "wrong": [
+      "5",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Quel est le plus petit pays du monde ?",
+    "correct": "Vatican",
+    "wrong": [
+      "Monaco",
+      "Liechtenstein",
+      "Saint-Marin"
+    ]
+  },
+  {
+    "question": "Quelle est la couleur associée à l'espérance ?",
+    "correct": "Vert",
+    "wrong": [
+      "Bleu",
+      "Blanc",
+      "Jaune"
+    ]
+  },
+  {
+    "question": "Quel sport se joue à Wimbledon ?",
+    "correct": "Tennis",
+    "wrong": [
+      "Cricket",
+      "Football",
+      "Golf"
+    ]
+  },
+  {
+    "question": "Qui a écrit 'Hamlet' ?",
+    "correct": "Shakespeare",
+    "wrong": [
+      "Molière",
+      "Goethe",
+      "Dante"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de la Chine ?",
+    "correct": "Pékin",
+    "wrong": [
+      "Shanghai",
+      "Hong Kong",
+      "Canton"
+    ]
+  },
+  {
+    "question": "Combien de dents a un adulte (dentition complète) ?",
+    "correct": "32",
+    "wrong": [
+      "28",
+      "30",
+      "36"
+    ]
+  },
+  {
+    "question": "Quel est le métal le plus conducteur de l'électricité ?",
+    "correct": "Argent",
+    "wrong": [
+      "Cuivre",
+      "Or",
+      "Aluminium"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale du Canada ?",
+    "correct": "Ottawa",
+    "wrong": [
+      "Toronto",
+      "Montréal",
+      "Vancouver"
+    ]
+  },
+  {
+    "question": "Quel est l'organe le plus grand du corps humain ?",
+    "correct": "Peau",
+    "wrong": [
+      "Foie",
+      "Poumon",
+      "Intestin"
+    ]
+  },
+  {
+    "question": "En quelle année a été construit la Tour Eiffel ?",
+    "correct": "1889",
+    "wrong": [
+      "1879",
+      "1899",
+      "1905"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale du Maroc ?",
+    "correct": "Rabat",
+    "wrong": [
+      "Casablanca",
+      "Marrakech",
+      "Fès"
+    ]
+  },
+  {
+    "question": "Combien de planètes dans le système solaire ?",
+    "correct": "8",
+    "wrong": [
+      "7",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "question": "Quelle est la vitesse de la lumière (arrondie) ?",
+    "correct": "300 000 km/s",
+    "wrong": [
+      "150 000 km/s",
+      "500 000 km/s",
+      "100 000 km/s"
+    ]
+  },
+  {
+    "question": "Qui a théorisé la gravitation universelle ?",
+    "correct": "Newton",
+    "wrong": [
+      "Einstein",
+      "Galilée",
+      "Copernic"
+    ]
+  },
+  {
+    "question": "Quel est le plus haut sommet du monde ?",
+    "correct": "Everest",
+    "wrong": [
+      "K2",
+      "Mont-Blanc",
+      "Kilimandjaro"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de l'Australie ?",
+    "correct": "Canberra",
+    "wrong": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ]
+  },
+  {
+    "question": "Combien font 12 × 12 ?",
+    "correct": "144",
+    "wrong": [
+      "124",
+      "134",
+      "164"
+    ]
+  },
+  {
+    "question": "Quel est le plus grand désert du monde ?",
+    "correct": "Sahara",
+    "wrong": [
+      "Gobi",
+      "Atacama",
+      "Arabian"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de la Russie ?",
+    "correct": "Moscou",
+    "wrong": [
+      "Saint-Pétersbourg",
+      "Novgorod",
+      "Kiev"
+    ]
+  },
+  {
+    "question": "Quel est l'animal symbole de la France ?",
+    "correct": "Coq gaulois",
+    "wrong": [
+      "Lion",
+      "Aigle",
+      "Lys"
+    ]
+  },
+  {
+    "question": "Qui a composé la Cinquième Symphonie ?",
+    "correct": "Beethoven",
+    "wrong": [
+      "Mozart",
+      "Bach",
+      "Chopin"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale du Sénégal ?",
+    "correct": "Dakar",
+    "wrong": [
+      "Abidjan",
+      "Bamako",
+      "Conakry"
+    ]
+  },
+  {
+    "question": "Combien y a-t-il d'os dans le corps humain adulte ?",
+    "correct": "206",
+    "wrong": [
+      "196",
+      "216",
+      "246"
+    ]
+  },
+  {
+    "question": "Quel est le pays le plus peuplé du monde ?",
+    "correct": "Inde",
+    "wrong": [
+      "Chine",
+      "États-Unis",
+      "Indonésie"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale de l'Égypte ?",
+    "correct": "Le Caire",
+    "wrong": [
+      "Alexandrie",
+      "Louxor",
+      "Assouan"
+    ]
+  },
+  {
+    "question": "Qui a inventé le téléphone ?",
+    "correct": "Alexander Graham Bell",
+    "wrong": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Marconi"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale du Japon ?",
+    "correct": "Tokyo",
+    "wrong": [
+      "Osaka",
+      "Kyoto",
+      "Hiroshima"
+    ]
+  },
+  {
+    "question": "Quel est le sport national du Canada ?",
+    "correct": "Hockey sur glace",
+    "wrong": [
+      "Lacrosse",
+      "Football",
+      "Baseball"
+    ]
+  },
+  {
+    "question": "Quelle planète possède des anneaux célèbres ?",
+    "correct": "Saturne",
+    "wrong": [
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+    ]
+  },
+  {
+    "question": "Qui a peint la Chapelle Sixtine ?",
+    "correct": "Michel-Ange",
+    "wrong": [
+      "Raphaël",
+      "Léonard de Vinci",
+      "Botticelli"
+    ]
+  },
+  {
+    "question": "Quelle est la capitale du Bénin ?",
+    "correct": "Porto-Novo",
+    "wrong": [
+      "Cotonou",
+      "Parakou",
+      "Abomey"
+    ]
+  }
+]

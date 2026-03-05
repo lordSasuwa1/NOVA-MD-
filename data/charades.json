@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Mon premier est un métal précieux.\nMon second est la note après FA.\nMon troisième est le contraire de non.\nMon tout est une capitale européenne.",
+    "reponse": "LISBONNE"
+  },
+  {
+    "question": "Mon premier se boit le matin.\nMon second est la troisième voyelle.\nMon tout pousse dans le jardin.",
+    "reponse": "CAFE-I → CAFEI... CAFÉIER"
+  },
+  {
+    "question": "Mon premier est ce qu'on respire.\nMon second est le son d'une vache.\nMon tout désigne un endroit de prière.",
+    "reponse": "AIR-MOO → AUMOO... TEMPLE"
+  },
+  {
+    "question": "Mon premier est un métal rouge.\nMon second est un article féminin.\nMon tout permet de conserver la nourriture.",
+    "reponse": "CUIVRE-LA → CUVELA... CONSERVE"
+  },
+  {
+    "question": "Mon premier est le contraire de froid.\nMon second pousse sur la tête.\nMon tout est un animal africain.",
+    "reponse": "CHAUD-POIL → LÉOPARD... GUÉPARD"
+  },
+  {
+    "question": "Mon premier est un fruit jaune.\nMon second est ce qu'on fait la nuit.\nMon tout est un instrument de musique.",
+    "reponse": "CITRON-DORMIR → CITHARE"
+  },
+  {
+    "question": "Mon premier est le nombre après un.\nMon second est une boisson chaude.\nMon tout est un continent.",
+    "reponse": "DEUX-THE → AFRIQUE... ASIE"
+  },
+  {
+    "question": "Mon premier est la 1ère lettre de l'alphabet.\nMon second est une céréale.\nMon tout est un animal de la ferme.",
+    "reponse": "A-BLE → ABEILLE"
+  },
+  {
+    "question": "Mon premier est ce que fait le soleil.\nMon second est le contraire de nuit.\nMon tout est une planète.",
+    "reponse": "BRILLE-JOUR → VÉNUS... MARS"
+  },
+  {
+    "question": "Mon premier est un article masculin.\nMon second est ce que fait l'eau en tombant.\nMon tout est une saison.",
+    "reponse": "LE-COULE → L'ÉCOULÉ... AUTOMNE"
+  },
+  {
+    "question": "Mon premier est le son d'un chat.\nMon second est une note de musique.\nMon tout est une capitale asiatique.",
+    "reponse": "MIAOU-RE → MYANMAR... TOKYO"
+  },
+  {
+    "question": "Mon premier est la reine des abeilles.\nMon second est la couleur du ciel.\nMon tout est une fleur.",
+    "reponse": "MIEL-BLEU → MIEL-BLEU... BLEUET"
+  },
+  {
+    "question": "Mon premier est ce qu'on boit à Noël.\nMon second est un pronom personnel.\nMon tout est une fête.",
+    "reponse": "CIDRE-IL → CÉDILLE... CARNAVAL"
+  },
+  {
+    "question": "Mon premier est le contraire de grand.\nMon second est un animal à rayures.\nMon tout est un sport.",
+    "reponse": "PETIT-TIGRE → PÉTANQUE"
+  },
+  {
+    "question": "Mon premier est la couleur du charbon.\nMon second est ce qu'on porte aux pieds.\nMon tout est un pays.",
+    "reponse": "NOIR-BOTTE → NORDBOTTE... FINLANDE"
+  },
+  {
+    "question": "Mon premier est un outil pour couper.\nMon second est une boisson gazeuse.\nMon tout est un métier.",
+    "reponse": "SCIE-EAU → SCIEUR... SCIER"
+  },
+  {
+    "question": "Mon premier est un animal qui saute.\nMon second est le contraire de triste.\nMon tout est une ville française.",
+    "reponse": "GRENOUILLE-JOIE → GRENOBLE"
+  },
+  {
+    "question": "Mon premier est ce qui sort de la cheminée.\nMon second est une grosse pierre.\nMon tout est un prénom masculin.",
+    "reponse": "FUMEE-ROC → FUMÉROC... FRÉDÉRIC"
+  },
+  {
+    "question": "Mon premier est la maman du veau.\nMon second est une note de musique.\nMon tout est une matière scolaire.",
+    "reponse": "VACHE-LA → VACHEZ... HISTOIRE"
+  },
+  {
+    "question": "Mon premier est ce que fait l'abeille.\nMon second est le son du tambour.\nMon tout est une couleur.",
+    "reponse": "BUTINE-BOUM → BORDEAUX... BEIGE"
+  },
+  {
+    "question": "Mon premier est le roi de la jungle.\nMon second est ce qu'on lit.\nMon tout est un pays d'Afrique.",
+    "reponse": "LION-LIVRE → LIBERIA"
+  },
+  {
+    "question": "Mon premier est un bébé chien.\nMon second est ce qui brille la nuit.\nMon tout est un continent.",
+    "reponse": "CHIOT-ETOILE → OCÉANIE... EUROPE"
+  },
+  {
+    "question": "Mon premier est la couleur de la neige.\nMon second est un animal marin.\nMon tout est une danse.",
+    "reponse": "BLANC-BALEINE → BALLET... VALSE"
+  },
+  {
+    "question": "Mon premier est le nombre après neuf.\nMon second est ce qu'on fait avec une balle.\nMon tout est une matière.",
+    "reponse": "DIX-LANCER → DICTÉE... CHIMIE"
+  },
+  {
+    "question": "Mon premier est ce que fait la mer.\nMon second est un légume vert.\nMon tout est un monument.",
+    "reponse": "FLOT-POIREAU → FLOTTEAU... CHÂTEAU"
+  },
+  {
+    "question": "Mon premier est le mâle de la poule.\nMon second est la couleur de l'herbe.\nMon tout est un instrument.",
+    "reponse": "COQ-VERT → COUVERT... GUITARE"
+  },
+  {
+    "question": "Mon premier est ce qui tombe en hiver.\nMon second est un pronom indéfini.\nMon tout est une saison.",
+    "reponse": "NEIGE-ON → PRINTEMPS... HIVER"
+  },
+  {
+    "question": "Mon premier est ce qu'on respire dans la forêt.\nMon second est un article pluriel.\nMon tout est un animal.",
+    "reponse": "AIR-LES → AIRLESS... AIGLE"
+  },
+  {
+    "question": "Mon premier est la couleur du sang.\nMon second est ce que fait l'eau qui bout.\nMon tout est un pays.",
+    "reponse": "ROUGE-VAPEUR → RUSSIE... ROUMANIE"
+  },
+  {
+    "question": "Mon premier est un grand récipient.\nMon second est la 3ème lettre.\nMon tout est un animal de compagnie.",
+    "reponse": "CUVE-C → CHIEN... CHAT"
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "question": "La baleine bleue est le plus grand animal ayant jamais existé.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "Les chauves-souris sont aveugles.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "L'eau bout à 100°C au niveau de la mer.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "Le soleil est une étoile.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "Les éléphants ont peur des souris.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "L'Australie est plus grande que la Lune.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "Un humain a plus de poils que un gorille.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "Les pieuvres ont trois cœurs.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "Le miel ne se périme jamais.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "Les diamants peuvent brûler.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "La Grande Muraille de Chine est visible depuis l'espace à l'œil nu.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "Les lions sont de meilleurs chasseurs que les lionnes.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "Le cœur humain bat environ 100 000 fois par jour.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "Napoléon était de petite taille.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "L'ADN humain est identique à 50% à celui d'une banane.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux"
+    ],
+    "type": "boolean"
+  },
+  {
+    "question": "Which country has the most natural lakes?",
+    "correct_answer": "Canada",
+    "incorrect_answers": [
+      "Russia",
+      "Brazil",
+      "USA"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "correct_answer": "Diamond",
+    "incorrect_answers": [
+      "Gold",
+      "Iron",
+      "Quartz"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "How many strings does a standard guitar have?",
+    "correct_answer": "6",
+    "incorrect_answers": [
+      "4",
+      "7",
+      "8"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "correct_answer": "Mars",
+    "incorrect_answers": [
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "correct_answer": "1945",
+    "incorrect_answers": [
+      "1944",
+      "1946",
+      "1943"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "correct_answer": "Au",
+    "incorrect_answers": [
+      "Go",
+      "Gd",
+      "Ag"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "correct_answer": "Nile",
+    "incorrect_answers": [
+      "Amazon",
+      "Mississippi",
+      "Yangtze"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "How many bones are in the human body?",
+    "correct_answer": "206",
+    "incorrect_answers": [
+      "198",
+      "214",
+      "236"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "correct_answer": "Tokyo",
+    "incorrect_answers": [
+      "Osaka",
+      "Kyoto",
+      "Nagoya"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "correct_answer": "Hydrogen",
+    "incorrect_answers": [
+      "Helium",
+      "Oxygen",
+      "Carbon"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "How many colors are in a rainbow?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "5",
+      "6",
+      "8"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "correct_answer": "Vatican City",
+    "incorrect_answers": [
+      "Monaco",
+      "Liechtenstein",
+      "Nauru"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "Which animal can sleep standing up?",
+    "correct_answer": "Horse",
+    "incorrect_answers": [
+      "Cow",
+      "Giraffe",
+      "Elephant"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "How many sides does a pentagon have?",
+    "correct_answer": "5",
+    "incorrect_answers": [
+      "4",
+      "6",
+      "7"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "correct_answer": "Cheetah",
+    "incorrect_answers": [
+      "Lion",
+      "Horse",
+      "Greyhound"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "In what continent is Egypt located?",
+    "correct_answer": "Africa",
+    "incorrect_answers": [
+      "Asia",
+      "Europe",
+      "Middle East"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "How many hours are in a day?",
+    "correct_answer": "24",
+    "incorrect_answers": [
+      "12",
+      "36",
+      "48"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "What is the main ingredient in bread?",
+    "correct_answer": "Flour",
+    "incorrect_answers": [
+      "Sugar",
+      "Salt",
+      "Yeast"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "correct_answer": "Pacific",
+    "incorrect_answers": [
+      "Atlantic",
+      "Indian",
+      "Arctic"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "What language do people speak in Brazil?",
+    "correct_answer": "Portuguese",
+    "incorrect_answers": [
+      "Spanish",
+      "English",
+      "French"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "How many players are on a basketball team?",
+    "correct_answer": "5",
+    "incorrect_answers": [
+      "6",
+      "4",
+      "7"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "Which fruit is known as the king of fruits?",
+    "correct_answer": "Durian",
+    "incorrect_answers": [
+      "Mango",
+      "Pineapple",
+      "Jackfruit"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "correct_answer": "Mitochondria",
+    "incorrect_answers": [
+      "Nucleus",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "How many teeth does an adult human have?",
+    "correct_answer": "32",
+    "incorrect_answers": [
+      "28",
+      "30",
+      "34"
+    ],
+    "type": "multiple"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "correct_answer": "Mount Everest",
+    "incorrect_answers": [
+      "K2",
+      "Kangchenjunga",
+      "Mont Blanc"
+    ],
+    "type": "multiple"
+  }
+]
