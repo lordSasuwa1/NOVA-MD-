@@ -22,6 +22,10 @@ module.exports = {
       // Utilise l'API ACRCloud ou similaire si dispo, sinon fallback message
       cleanTemp(tmpFile)
       await ctx.reply({ text: '🎵 Identification Shazam\n\n⚠️ Configure ACRCloud dans .env pour activer cette fonctionnalité.' })
-    } catch { await ctx.react('❌'); await ctx.reply({ text: '❌ Identification échouée.' }) }
+    } } catch (err) { 
+  await ctx.react('❌')
+  console.error('[NOVA] Erreur shazam:', err)
+  await ctx.reply({ text: '❌ Identification échouée.' }) 
+  }
   }
 }
