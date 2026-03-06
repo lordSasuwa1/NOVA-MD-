@@ -79,7 +79,7 @@ ${C.magenta}${C.bold}  ╔══════════════════
   // ── Étape 1 : Base de données ───────────────────────────────────
   logStep(1, STEPS, 'Initialisation des bases de données SQLite...')
   try {
-    db.init()
+   await db.init()
     const userCount  = db.users.count()
     const groupCount = db.groups.count()
     log('✅', 'DB', `Bases prêtes — ${C.green}${userCount}${C.reset} users | ${C.green}${groupCount}${C.reset} groupes`, C.green)
