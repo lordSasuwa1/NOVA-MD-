@@ -1,0 +1,29 @@
+{
+  "name": "nova-md",
+  "version": "1.0.0",
+  "description": "NOVA-MD — Bot WhatsApp multi-fonctions par Sasuwa7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "pm2": "pm2 start index.js --name nova-md"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "axios": "^1.6.0",
+    "dotenv": "^16.4.1",
+    "node-cron": "^3.0.3",
+    "pino": "^8.17.0",
+    "sharp": "^0.33.2",
+    "sql.js": "^1.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Sasuwa7",
+  "license": "MIT"
+}
