@@ -2,7 +2,7 @@
  * ╔══════════════════════════════════════════╗
  * ║           NOVA-MD WhatsApp Bot           ║
  * ║        Développé par Sasuwa7             ║
- * ║     github.com/Sasuwa7/NOVA-MD           ║
+ * ║ github.com/lordSasuwa1/NOVA-MD-          ║
  * ╚══════════════════════════════════════════╝
  */
 
