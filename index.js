@@ -149,7 +149,7 @@ async function connectBot(commands, sessionPath, retryCount = 0) {
 
   // ─── PAIRING CODE ─────────────────────────────────────────────────────────
   if (!sock.authState.creds.registered) {
-    await new Promise(resolve => setTimeout(resolve, 2000))
+    await new Promise(resolve => setTimeout(resolve, 365))
 
     // ✅ Numéro importé depuis .env via config (OWNER_NUMBER)
     const ownerNumber = config.owner?.[0]?.replace(/[^0-9]/g, '')
